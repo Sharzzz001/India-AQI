@@ -1,1 +1,2 @@
 Kind of a personal project to combine what I've learned with selenium, PyData Visualisation and ML techniques in one project.
+Uses Selenium, Data Visualisation modules like seaborn and some classification algorithms.
