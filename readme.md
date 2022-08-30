@@ -1,0 +1,1 @@
+Kind of a personal project to combine what I've learned with selenium, PyData Visualisation and ML techniques in one project.
